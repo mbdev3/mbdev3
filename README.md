@@ -1,4 +1,4 @@
-
+<html>
   <style>
     a {
       margin-right: 1rem;
@@ -7,13 +7,13 @@
       background: linear-gradient(to right, rgb(33, 37, 41), rgb(67, 67, 67));
       color: #f8f9fa;
     }
-    h3 {
-      color: rgb(229, 184, 11);
-    }
+    /* h3 {
+      color: #e5b80b;
+    } */
   </style>
 
   <h1 align="center">Hi 🖐, I'm Mohammed</h1>
-  <h3 align="center">A Web Developer from Morocco 🇲🇦</h3>
+  <h3 align="center" color="#e5b80b">A Web Developer from Morocco 🇲🇦</h3>
   <img
     align="right"
     src="https://www.thembdev.com/static/media/mbdev_logo_sm.e00e77dcb86c64f73112577529660357.svg"
@@ -281,4 +281,4 @@
         style="max-width: 100%"
     /></a>
   </p>
-
+</html>
