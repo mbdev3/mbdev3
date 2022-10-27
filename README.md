@@ -7,14 +7,10 @@
     <img src="https://komarev.com/ghpvc/?username=mbdev3&label=Profile%20views&color=e5b60b&style=flat-square"
       alt="mbdev3" />
   </p>
-
-
-
   <p align="left">
-    <a href="https://twitter.com/mbdev_" target="blank"><img
+    <a href="https://twitter.com/mbdev_" target ="blank"><img
         src="https://img.shields.io/twitter/follow/mbdev_?logo=twitter&style=for-the-badge" alt="mbdev_" /></a>
   </p>
-
   - 🔭 I’m currently working on **a MERN Shein-like E-commerce website**<br><br> - 🌱 I’m currently learning
   **NextJs, React Native**<br><br> - 👨‍💻 All of my projects are available at
   [https://www.thembdev.com/projects](https://www.thembdev.com/projects)<br><br> - 📫 How to reach me
@@ -39,7 +35,6 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png"
         alt="bootstrap" width="60" /> </a>&ensp;
-
     <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
       <img src="https://www.thembdev.com/static/media/mbdev-html5.5ee2a51c64575cb472abe9b9b431ad90.svg" alt="c"
         width="60" /> </a>&ensp;
@@ -65,7 +60,6 @@
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
       <img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" alt=""
         width="60" /> </a>&ensp;
-
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img src="https://g.foolcdn.com/art/companylogos/square/mdb.png" alt="" width="60" /> </a>&ensp;
     <a href="https://d3js.org/" target="_blank" rel="noreferrer">
@@ -165,5 +159,4 @@
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
         alt="mbdev3" height="30" width="60" /></a>
   </p>
-
 </html>
