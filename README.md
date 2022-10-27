@@ -23,13 +23,16 @@
 
 - 📫 How to reach me **mbanani.dev@gmail.com**
 
-  <br> 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mbdev3&theme=nord_dark)
+   
  <img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbdev3&langs_count=8&theme=react&layout=compact&hide=Jupyter%20Notebook"
     alt="mbdev3"
     data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbdev3&langs_count=8&theme=react&layout=compact"
     style="max-width: 100%" />
-  <br> <br>
+ 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mbdev3&theme=nord_dark)
+  
   <h3 align="left">Techs & Tools:</h3>
   <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
