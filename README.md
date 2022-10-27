@@ -1,4 +1,4 @@
-<html>
+
   <style>
     a {
       margin-right: 1rem;
@@ -281,4 +281,4 @@
         style="max-width: 100%"
     /></a>
   </p>
-</html>
+
