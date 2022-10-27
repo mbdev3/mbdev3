@@ -137,7 +137,7 @@
     data-canonical-src="https://github-readme-stats.vercel.app/api?username=mbdev3&show_icons=true&theme=react"
     style="max-width: 100%" />
 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mbdev3&theme=dark" alt="mbdev3" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mbdev3&theme=react" alt="mbdev3" />
 
   <p>
     <a href="https://github.com/mbdev3"><img
