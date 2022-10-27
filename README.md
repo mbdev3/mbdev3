@@ -13,7 +13,7 @@
   </style>
 
   <h1 align="center">Hi 🖐, I'm Mohammed</h1>
-  <font align="center" color="#e5b80b">A Web Developer from Morocco 🇲🇦</font>
+  <font align="center" color="red">A Web Developer from Morocco 🇲🇦</font>
   <img
     align="right"
     src="https://www.thembdev.com/static/media/mbdev_logo_sm.e00e77dcb86c64f73112577529660357.svg"
