@@ -1,19 +1,30 @@
 
-  <h1 align="center">Hi 🖐, I'm Mohammed</h1>
-  <h3 align="center">A Web Developer from Morocco</h3>
-  <h4 align="center" > <i>&ldquo; Passionate about designing and building websites, constantly looking for opportunities to expand my knowledge and acquire new skills &rdquo;</i></h4>
-  <br> <br>
-   <a href="https://www.thembdev.com/" target ="_blank"> <img align="right"
-      src="https://www.thembdev.com/static/media/mbdev_logo_sm.e00e77dcb86c64f73112577529660357.svg" alt="mbdev3"
-      width="200" /></a>
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=mbdev3&label=Profile%20views&color=e5b60b&style=flat-square"
       alt="mbdev3" />
   </p>
-  <p align="left">
-    <a href="https://twitter.com/mbdev_" target ="blank"><img
+  <h1 align="center">Hi 🖐, I'm Mohammed</h1>
+  <h3 align="center">A Web Developer from Morocco</h3>
+  <h4 align="center" > <i>&ldquo; Passionate about designing and building websites, constantly looking for opportunities to expand my knowledge and acquire new skills &rdquo;</i></h4>
+  <br> <br>
+  <div id="user-content-badges" align="center" >
+  
+  <a href="https://www.thembdev.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-gray?style=for-the-badge&amp;logo=react&amp;logoColor=bluee" alt="Portfolio Badge" data-canonical-src="https://img.shields.io/badge/Portfolio-gray?style=for-the-badge&amp;logo=react&amp;logoColor=blue" >
+  </a>
+  <a href="https://www.linkedin.com/in/mbdev3/" >
+    <img src="https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" >
+  </a>
+  <a href="https://twitter.com/mbdev_" target ="blank"><img
         src="https://img.shields.io/twitter/follow/mbdev_?logo=twitter&style=for-the-badge" alt="mbdev_" /></a>
-  </p>
+    
+    
+</div>
+   <a href="https://www.thembdev.com/" target ="_blank"> <img align="right"
+      src="https://www.thembdev.com/static/media/mbdev_logo_sm.e00e77dcb86c64f73112577529660357.svg" alt="mbdev3"
+      width="200" /></a>
+  
+  
   
  - 🔭 I’m currently working on **a MERN Shein-like E-commerce website**
 
