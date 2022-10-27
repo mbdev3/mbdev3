@@ -1,4 +1,4 @@
-<html>
+
   <h1 align="center">Hi 🖐, I'm Mohammed</h1>
   <h3 align="center">A Web Developer from Morocco</h3>
   <img align="right" src="https://www.thembdev.com/static/media/mbdev_logo_sm.e00e77dcb86c64f73112577529660357.svg"
@@ -159,4 +159,3 @@
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
         alt="mbdev3" height="30" width="60" /></a>
   </p>
-</html>
