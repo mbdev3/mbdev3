@@ -62,6 +62,7 @@
       <img src="https://www.thembdev.com/static/media/sc.4f5d44437b86ae9aa20d.webp" alt="figma" width="60" /> </a>&ensp;
     <br />
     <br />
+  <img align="right" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--rV1CmS8C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/9yn7vhjsvzhgi0w9p7he.gif" alt="">
     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
       <img src="https://www.thembdev.com/static/media/nodejs.e8756bc1121181759ae3.png" alt="git" width="60" />
     </a>&ensp;
@@ -129,18 +130,12 @@
     </a>&ensp;
   </p>
   <br>
-  <br>
-  <br>
-  
   </p>
-
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mbdev3&show_icons=true&theme=react"
     alt="mbdev3"
     data-canonical-src="https://github-readme-stats.vercel.app/api?username=mbdev3&show_icons=true&theme=react"
     style="max-width: 100%" />
-
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mbdev3&theme=react" alt="mbdev3" />
-
   <p>
     <a href="https://github.com/mbdev3"><img
         src="https://activity-graph.herokuapp.com/graph?username=mbdev3&theme=tokyo-night"
