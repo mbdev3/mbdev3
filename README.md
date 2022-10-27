@@ -11,10 +11,13 @@
     <a href="https://twitter.com/mbdev_" target ="blank"><img
         src="https://img.shields.io/twitter/follow/mbdev_?logo=twitter&style=for-the-badge" alt="mbdev_" /></a>
   </p>
-  - 🔭 I’m currently working on **a MERN Shein-like E-commerce website**<br><br> - 🌱 I’m currently learning
-  **NextJs, React Native**<br><br> - 👨‍💻 All of my projects are available at
-  [https://www.thembdev.com/projects](https://www.thembdev.com/projects)<br><br> - 📫 How to reach me
-  **mbanani.dev@gmail.com**
+ - 🔭 I’m currently working on **a MERN Shein-like E-commerce website**
+
+- 🌱 I’m currently learning **NextJs, React Native**
+
+- 👨‍💻 All of my projects are available at [https://www.thembdev.com/projects](https://www.thembdev.com/projects)
+
+- 📫 How to reach me **mbanani.dev@gmail.com**
   <br> <br>
   <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img
