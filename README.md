@@ -11,18 +11,21 @@
     <a href="https://twitter.com/mbdev_" target ="blank"><img
         src="https://img.shields.io/twitter/follow/mbdev_?logo=twitter&style=for-the-badge" alt="mbdev_" /></a>
   </p>
+  
  - 🔭 I’m currently working on **a MERN Shein-like E-commerce website**
 
 - 🌱 I’m currently learning **NextJs, React Native**
 
-- 👨‍💻 All of my projects are available at [https://www.thembdev.com/projects](https://www.thembdev.com/projects)
+- 👨‍💻 My projects are available at [https://www.thembdev.com/projects](https://www.thembdev.com/projects)
 
 - 📫 How to reach me **mbanani.dev@gmail.com**
+
   <br> <br>
-  <p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-        src="https://github-profile-trophy.vercel.app/?username=mbdev3" alt="mbdev3" /></a>
-  </p>
+ <img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbdev3&langs_count=8&theme=react&layout=compact&hide=Jupyter%20Notebook"
+    alt="mbdev3"
+    data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbdev3&langs_count=8&theme=react&layout=compact"
+    style="max-width: 100%" />
   <br> <br>
   <h3 align="left">Techs & Tools:</h3>
   <p align="left">
@@ -126,11 +129,7 @@
   <br>
   <br>
   <br>
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbdev3&langs_count=8&theme=react&layout=compact&hide=Jupyter%20Notebook"
-    alt="mbdev3"
-    data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbdev3&langs_count=8&theme=react&layout=compact"
-    style="max-width: 100%" />
+  
   </p>
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mbdev3&show_icons=true&theme=react"
@@ -147,18 +146,4 @@
         data-canonical-src="https://activity-graph.herokuapp.com/graph?username=mbdev3&theme=tokyo-night"
         style="max-width: 100%" /></a>
   </p>
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
-    <a href="https://codepen.io/mbdev3" target="blank"><img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-        alt="mbdev3" height="30" width="60" /></a>
-    <a href="https://twitter.com/mbdev_" target="blank"><img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-        alt="mbdev_" height="30" width="60" /></a>
-    <a href="https://linkedin.com/in/mbdev3" target="blank"><img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        alt="mbdev3" height="30" width="60" /></a>
-    <a href="https://www.hackerrank.com/mbdev3" target="blank"><img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-        alt="mbdev3" height="30" width="60" /></a>
-  </p>
+  
