@@ -10,7 +10,7 @@
   <h3 align="center">A Web Developer from Morocco</h3>
   <h4 align="center" > <i>&ldquo; Passionate about designing and building websites, constantly looking for opportunities to expand my knowledge and acquire new skills &rdquo;</i></h4>
   <br> <br>
-  <div id="user-content-badges" align="center" >
+  <div  align="center" >
   
   <a href="https://www.thembdev.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-gray?style=for-the-badge&amp;logo=react&amp;logoColor=bluee" alt="Portfolio Badge" data-canonical-src="https://img.shields.io/badge/Portfolio-gray?style=for-the-badge&amp;logo=react&amp;logoColor=blue" >
@@ -19,31 +19,40 @@
     <img src="https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" >
   </a>
   <a href="https://twitter.com/mbdev_" target ="blank"><img
-        src="https://img.shields.io/twitter/follow/mbdev_?logo=twitter&style=for-the-badge" alt="mbdev_" /></a>
-    
-    
+        src="https://img.shields.io/twitter/follow/mbdev_?logo=twitter&style=for-the-badge" alt="mbdev_" /></a> 
 </div>
    
   
   
   
- - 🔭 I’m currently working on **a MERN Shein-like E-commerce website**
+ - 🔧 I’m currently working on **a MERN Shein-like E-commerce website**
 
-- 🌱 I’m currently learning **NextJs, React Native**
+- 👨‍💻 Currently learning **NextJs, React Native**
 
-- 👨‍💻 My projects are available at [https://www.thembdev.com/projects](https://www.thembdev.com/projects)
+- ⚙️ My projects are available at [https://www.thembdev.com/projects](https://www.thembdev.com/projects)
 
-- 📫 How to reach me **mbanani.dev@gmail.com**
+- 📧 How to reach me **mbanani.dev@gmail.com**
 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mbdev3&theme=nord_dark)
+<div width='100%'>
+  
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mbdev3&theme=nord_dark)
+  
+  </div>
+
    
- <img align="center"
+   
+   <div align="left">
+  <img  align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbdev3&langs_count=8&theme=react&layout=compact&hide=Jupyter%20Notebook"
     alt="mbdev3"
+       height='200'
     data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbdev3&langs_count=8&theme=react&layout=compact"
-    style="max-width: 100%" />
- 
+     />
+  
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mbdev3&theme=nord_dark)
+  
+  </div>
+ 
   
   <h3 align="left">Techs & Tools:</h3>
   <p align="left">
@@ -147,11 +156,14 @@
   </p>
   <br>
   </p>
+   <div align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mbdev3&show_icons=true&theme=react"
     alt="mbdev3"
     data-canonical-src="https://github-readme-stats.vercel.app/api?username=mbdev3&show_icons=true&theme=react"
-    style="max-width: 100%" />
+    />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mbdev3&theme=react" alt="mbdev3" />
+  </div>
+  <br>
   <p>
     <a href="https://github.com/mbdev3"><img
         src="https://activity-graph.herokuapp.com/graph?username=mbdev3&theme=tokyo-night"
