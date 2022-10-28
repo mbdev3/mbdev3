@@ -1,15 +1,17 @@
-
+  <div>
+  <img src='https://mbdev-utils.s3.eu-west-3.amazonaws.com/github.jpg' alt='mbdev' width='100%' />
+  
+  </div>
+  
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=mbdev3&label=Profile%20views&color=e5b60b&style=flat-square"
       alt="mbdev3" />
   </p>
-  <a href="https://www.thembdev.com/" target ="_blank"> <img align="right"
-      src="https://www.thembdev.com/static/media/mbdev_logo_sm.e00e77dcb86c64f73112577529660357.svg" alt="mbdev3"
-      width="200" /></a>
-  <h1 align="center">Hi 🖐, I'm Mohammed</h1>
-  <h3 align="center">A Web Developer from Morocco</h3>
+  
+  
+  <h3 align="center">A Self-taught Web Developer from Morocco</h3>
   <h4 align="center" > <i>&ldquo; Passionate about designing and building websites, constantly looking for opportunities to expand my knowledge and acquire new skills &rdquo;</i></h4>
-  <br> <br>
+  
   <div  align="center" >
   
   <a href="https://www.thembdev.com/" target="_blank">
@@ -25,13 +27,17 @@
   
   
   
- - 🔧 I’m currently working on **a MERN Shein-like E-commerce website**
+- 🔧 I’m currently building **a MERN Shein-like E-commerce website**
 
-- 👨‍💻 Currently learning **NextJs, React Native**
+- ⌛️ Currently learning **NextJs**
+
+- 👨‍💻 Planning to learn **React Native, GraphQL**
 
 - ⚙️ My projects are available at [https://www.thembdev.com/projects](https://www.thembdev.com/projects)
 
-- 📧 How to reach me **mbanani.dev@gmail.com**
+- 🤝 Currently accepting **Freelance work**
+
+- 📧 **mbanani.dev@gmail.com**
 
 <div width='100%'>
   
