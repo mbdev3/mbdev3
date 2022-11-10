@@ -179,6 +179,6 @@
         src="https://activity-graph.herokuapp.com/graph?username=mbdev3&theme=tokyo-night"
         alt="Mohammed's GitHub activity graph"
         data-canonical-src="https://activity-graph.herokuapp.com/graph?username=mbdev3&theme=tokyo-night"
-        style="max-width: 100%" /></a>
+        style="max-width: 50%" /></a>
   </p>
   
