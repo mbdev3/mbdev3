@@ -1,20 +1,7 @@
-<div align='center'>
-  <img src='https://mbdev-utils.s3.eu-west-3.amazonaws.com/bismillah.png' width='300' />
-  </div>
-  <br>
-  <div>
-  <img src='https://mbdev-utils.s3.eu-west-3.amazonaws.com/github.jpg' alt='mbdev' width='100%' />
+
   
-  </div>
+  <h3 align="center">Self-taught Web Developer from Morocco</h3>
   
-  <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=mbdev3&label=Profile%20views&color=e5b60b&style=flat-square"
-      alt="mbdev3" />
-  </p>
-  
-  
-  <h3 align="center">A Self-taught Web Developer from Morocco</h3>
-  <h4 align="center" > <i>&ldquo; Passionate about designing and building websites, constantly looking for opportunities to expand my knowledge and acquire new skills &rdquo;</i></h4>
   
   <div  align="center" >
   
@@ -31,37 +18,13 @@
   
   
   
-- 🔧 I’m currently building **a MERN Shein-like E-commerce website**
+-  Currently building **a MERN Shein-like E-commerce website**
 
-- ⌛️ Currently learning **NextJs**
+-  Currently learning **NextJs**
 
-- 👨‍💻 Planning to learn **React Native, GraphQL**
+-  Planning to learn **React Native, GraphQL, TypeScript**
 
-- ⚙️ My projects are available at [https://www.thembdev.com/projects](https://www.thembdev.com/projects)
 
-- 🤝 Currently accepting **Freelance work**
-
-- 📧 **mbanani.dev@gmail.com**
-
-<div width='100%'>
-  
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mbdev3&theme=nord_dark)
-  
-  </div>
-
-   
-   
-   <div align="left">
-  <img  align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbdev3&langs_count=8&theme=react&layout=compact&hide=Jupyter%20Notebook"
-    alt="mbdev3"
-       height='200'
-    data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbdev3&langs_count=8&theme=react&layout=compact"
-     />
-  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mbdev3&theme=nord_dark)
-  
-  </div>
  
   
   <h3 align="left">Techs & Tools:</h3>
@@ -166,6 +129,27 @@
   </p>
   <br>
   </p>
+  
+  <div width='100%'>
+  
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mbdev3&theme=nord_dark)
+  
+  </div>
+
+   
+   
+   <div align="left">
+  <img  align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbdev3&langs_count=8&theme=react&layout=compact&hide=Jupyter%20Notebook"
+    alt="mbdev3"
+       height='200'
+    data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbdev3&langs_count=8&theme=react&layout=compact"
+     />
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mbdev3&theme=nord_dark)
+  
+  </div>
+  
    <div align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mbdev3&show_icons=true&theme=react"
     alt="mbdev3"
@@ -174,11 +158,5 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mbdev3&theme=react" alt="mbdev3" />
   </div>
   <br>
-  <p>
-    <a href="https://github.com/mbdev3"><img
-        src="https://activity-graph.herokuapp.com/graph?username=mbdev3&theme=tokyo-night"
-        alt="Mohammed's GitHub activity graph"
-        data-canonical-src="https://activity-graph.herokuapp.com/graph?username=mbdev3&theme=tokyo-night"
-        style="max-width: 50%" /></a>
-  </p>
+  
   
