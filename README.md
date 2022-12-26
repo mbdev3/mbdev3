@@ -22,7 +22,7 @@
 
 -  Currently learning **NextJs**
 
--  Planning to learn **React Native, GraphQL, TypeScript**
+-  Planning to learn **TypeScript, Astro, React Native, GraphQL**
 
 
  
