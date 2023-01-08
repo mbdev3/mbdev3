@@ -156,12 +156,12 @@
    <div align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mbdev3&show_icons=true&theme=react"
     alt="mbdev3"
-        width='40%'
-        height='200px'
+        width='45%'
+        height='300px'
     data-canonical-src="https://github-readme-stats.vercel.app/api?username=mbdev3&show_icons=true&theme=react"
     />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mbdev3&theme=react" alt="mbdev3" width='40%'
-        height='200px' />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mbdev3&theme=react" alt="mbdev3" width='45%'
+        height='300px' />
   </div>
   <br>
   
