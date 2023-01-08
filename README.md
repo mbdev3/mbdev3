@@ -145,7 +145,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbdev3&langs_count=8&theme=react&layout=compact&hide=Jupyter%20Notebook"
     alt="mbdev3"
        width='40%'
-       height='200'
+       height='200px'
     data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbdev3&langs_count=8&theme=react&layout=compact"
      />
   
@@ -156,9 +156,12 @@
    <div align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mbdev3&show_icons=true&theme=react"
     alt="mbdev3"
+        width='40%'
+        height='200px'
     data-canonical-src="https://github-readme-stats.vercel.app/api?username=mbdev3&show_icons=true&theme=react"
     />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mbdev3&theme=react" alt="mbdev3" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mbdev3&theme=react" alt="mbdev3" width='40%'
+        height='200px' />
   </div>
   <br>
   
