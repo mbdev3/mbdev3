@@ -144,6 +144,7 @@
   <img  align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbdev3&langs_count=8&theme=react&layout=compact&hide=Jupyter%20Notebook"
     alt="mbdev3"
+       width='40%'
        height='200'
     data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbdev3&langs_count=8&theme=react&layout=compact"
      />
