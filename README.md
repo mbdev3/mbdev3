@@ -24,7 +24,7 @@
 
 -  Planning to learn next **TypeScript, Astro, React Native, GraphQL**
 
--  Planning to learn later **TanStack Router, Redux, Unit testing, React Query, Headless CMS, GSAP, GULP, Kubernetes, Firebase, PostgreSQL, playwright, zod, tRPC.**
+-  Planning to learn later **TanStack Router, Redux, Unit testing, React Query, Headless CMS, GSAP, GULP, Kubernetes, Firebase, PostgreSQL, playwright, zod, tRPC, Prisma.**
 
 
  
