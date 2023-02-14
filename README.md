@@ -8,7 +8,6 @@
   <a href="https://www.thembdev.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-gray?style=for-the-badge&amp;logo=react&amp;logoColor=bluee" alt="Portfolio Badge" data-canonical-src="https://img.shields.io/badge/Portfolio-gray?style=for-the-badge&amp;logo=react&amp;logoColor=blue" >
   </a>
-
   <a href="https://twitter.com/mbdev_" target ="blank"><img
         src="https://img.shields.io/twitter/follow/mbdev_?logo=twitter&style=for-the-badge" alt="mbdev_" /></a> 
 </div>
