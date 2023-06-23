@@ -19,7 +19,7 @@
 
 -  Currently learning **TypeScript**
 
--  Planning to learn next **Astro, React Native, GraphQL**
+-  Planning to learn next **Astro, React Native, GraphQL, Svelte**
 
 -  Planning to learn later **TanStack Router, Redux, Unit testing, Headless CMS, GSAP, GULP, Kubernetes, Firebase, PostgreSQL, playwright, zod, tRPC, Prisma, Socket.io.**
 
