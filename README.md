@@ -17,9 +17,9 @@
   
 -  Currently building **a MERN Shein-like E-commerce website**
 
--  Currently learning **NextJs**
+-  Currently learning **TypeScript**
 
--  Planning to learn next **TypeScript, Astro, React Native, GraphQL**
+-  Planning to learn next **Astro, React Native, GraphQL**
 
 -  Planning to learn later **TanStack Router, Redux, Unit testing, Headless CMS, GSAP, GULP, Kubernetes, Firebase, PostgreSQL, playwright, zod, tRPC, Prisma, Socket.io.**
 
