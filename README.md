@@ -13,15 +13,12 @@
 </div>
    
   
-  
-  
--  Currently building **a MERN Shein-like E-commerce website**
 
--  Currently learning **TypeScript**
+-  Currently learning **DynamoDB**
 
 -  Planning to learn next **Astro, React Native, GraphQL, Svelte**
 
--  Planning to learn later **TanStack Router, Redux, Unit testing, Headless CMS, GSAP, GULP, Kubernetes, Firebase, PostgreSQL, playwright, zod, tRPC, Prisma, Socket.io.**
+-  Planning to learn later **GSAP, GULP, Kubernetes, PostgreSQL, playwright, zod, tRPC, Prisma, Socket.io.**
 
 
  
