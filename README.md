@@ -41,7 +41,7 @@
       <img src="https://www.thembdev.com/static/media/react.7a637457dceb6762458e31f7b1240939.svg" alt="bootstrap"
         width="60" /> </a>&ensp;
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png"
+      <img src="https://cdn.sanity.io/images/3do82whm/next/4b1f008289a88f4438a1c983fb32cf1a636d9d0e-1000x667.png?w=720&h=480&fit=clip&auto=format"
         alt="bootstrap" width="60" /> </a>&ensp;
     <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
       <img src="https://www.thembdev.com/static/media/mbdev-html5.5ee2a51c64575cb472abe9b9b431ad90.svg" alt="c"
