@@ -31,6 +31,12 @@
         alt="" width="60" />
     </a>
     &ensp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"
+        alt="" width="60" />
+    </a>
+    &ensp;
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img src="https://www.thembdev.com/static/media/react.7a637457dceb6762458e31f7b1240939.svg" alt="bootstrap"
         width="60" /> </a>&ensp;
