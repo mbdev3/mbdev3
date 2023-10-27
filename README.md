@@ -1,6 +1,7 @@
 
-  
-  <h3 align="center">Self-taught Web Developer from Morocco</h3>
+
+
+  <h3 align="center" >Self-taught Web Developer from Morocco</h3>
   
   
   <div  align="center" >
