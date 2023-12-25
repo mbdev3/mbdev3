@@ -17,7 +17,7 @@
 
 -  Currently learning **DynamoDB**
 
--  Planning to learn next **Jotai,Zustand, Astro, React Native, GraphQL, Svelte**
+-  Planning to learn next **Jotai,Zustand,xState, Astro, React Native, GraphQL, Svelte**
 
 -  Planning to learn later **GSAP, GULP, Kubernetes, PostgreSQL, playwright, zod, tRPC, Prisma, Socket.io.**
 
