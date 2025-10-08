@@ -137,7 +137,7 @@
 
    
    
-   <div align="left">
+  
   <img  align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbdev3&langs_count=8&theme=react&layout=compact&hide=Jupyter%20Notebook"
     alt="mbdev3"
@@ -146,9 +146,9 @@
     data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbdev3&langs_count=8&theme=react&layout=compact"
      />
   
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mbdev3&theme=nord_dark)
+ 
   
-  </div>
+  
   
    <div align="left">
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mbdev3&show_icons=true&theme=react"
