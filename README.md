@@ -1,16 +1,10 @@
 
-
-
-  <h3 align="center" >Self-taught Web Developer from Morocco</h3>
-  
-  
   <div  align="center" >
   
   <a href="https://www.thembdev.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-gray?style=for-the-badge&amp;logo=react&amp;logoColor=bluee" alt="Portfolio Badge" data-canonical-src="https://img.shields.io/badge/Portfolio-gray?style=for-the-badge&amp;logo=react&amp;logoColor=blue" >
   </a>
-  <a href="https://twitter.com/mbdev_" target ="blank"><img
-        src="https://img.shields.io/twitter/follow/mbdev_?logo=twitter&style=for-the-badge" alt="mbdev_" /></a> 
+  
 </div>
    
   
@@ -107,24 +101,7 @@
     </a>
     <br />
     <br />
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="60" />
-    </a>&ensp;
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png"
-        alt="photoshop" width="60" />
-    </a>&ensp;
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png"
-        width="60" />
-    </a>&ensp;
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-      <img
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTirHxQzoWPUFgJlbSq2gVRsXZjZ_cxygZL7OKlpKk5DI_rWHQf4gGOFh_BKjKax2wb7OY&usqp=CAU"
-        alt="photoshop" width="60" />
-    </a>&ensp;
+    
   </p>
   <br>
   </p>
@@ -138,27 +115,10 @@
    
    
   
-  <img  align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbdev3&langs_count=8&theme=react&layout=compact&hide=Jupyter%20Notebook"
-    alt="mbdev3"
-       width='40%'
-       height='200px'
-    data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbdev3&langs_count=8&theme=react&layout=compact"
-     />
-  
- 
+
   
   
   
-   <div align="left">
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mbdev3&show_icons=true&theme=react"
-    alt="mbdev3"
-        width='45%'
-        height='200px'
-    data-canonical-src="https://github-readme-stats.vercel.app/api?username=mbdev3&show_icons=true&theme=react"
-    /> -->
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mbdev3&theme=react" alt="mbdev3"  />
-  </div>
-  <br>
+  
   
   
