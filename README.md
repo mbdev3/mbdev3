@@ -1,25 +1,35 @@
-<div align="center">
+ <div align="center">
 
   # Mohammed Banani
 
-  **Software Engineer · Founder · Casablanca**
+  **Software Engineer · Founder**
 
-  [mohammedbanani.com](https://mohammedbanani.com) · [Journal](https://mohammedbanani.com/journal) · [Contact](https://mohammedbanani.com/contact)
+  <sub>Building with *craft*, thinking in *systems* — from Casablanca.</sub>
+
+  <br>
+
+  [Portfolio](https://mohammedbanani.com)&nbsp;&nbsp;·&nbsp;&nbsp;[Journal](https://mohammedbanani.com/journal)&nbsp;&nbsp;·&nbsp;&nbsp;[Contact](https://moh
+  ammedbanani.com/contact)
 
   </div>
 
   ---
 
-  I build digital products and systems that are thoughtful, fast, and built to last.
-  I care about clean code, simple design, and the details that create real impact.
+  I build digital products and systems that are thoughtful, fast, and built to last — clean code, simple design, and the small details that compound into
+  real impact.
 
-  > Building with *craft*, thinking in *systems*.
+  > Code is how I build. Systems are how I create impact.
 
   ### What I'm building
 
   - **[Matter Development](https://matterdevelopment.com)** — Digital products and systems for businesses that take craft seriously. *Founded 2022.*
-  - **[Zaytoun](https://zaytoun.ma)** — A modern Moroccan house for handmade goods. Dates, chocolate, gift boxes. *Founded 2024.*
+  - **[Zaytoun](https://zaytoun.ma)** — A modern Moroccan house for handmade goods: dates, chocolate, gift boxes. *Founded 2024.*
   - **[Instalya](https://instalya.ma)** — Affordable, design-forward fashion for everyday Morocco. *Pre-launch, 2026.*
+
+  ### Things I've shipped
+
+  - **[consolelog.tools](https://consolelog.tools)** — 300+ free developer tools. Browser-native, no signup, sub-100ms. *Open source.*
+  - **[Optimo](https://www.optimoapps.com)** — Compress and convert images and video, fully on your machine. No uploads, no account. *Free desktop app.*
 
   ### The tools I reach for
 
@@ -34,10 +44,10 @@
 
   ### Currently
 
-  - Running [Matter Development](https://matterdevelopment.com) — shipping for clients who care about the details
-  - Growing [Zaytoun](https://zaytoun.ma) — Moroccan handmade goods, delivered with care
-  - Building [Instalya](https://instalya.ma) toward launch
-  - Writing in [the journal](https://mohammedbanani.com/journal) when there's something worth saying
+  - Running **[Matter Development](https://matterdevelopment.com)** — shipping for clients who care about the details
+  - Growing **[Zaytoun](https://zaytoun.ma)** — Moroccan handmade goods, delivered with care
+  - Taking **[Instalya](https://instalya.ma)** toward launch
+  - Writing in **[the journal](https://mohammedbanani.com/journal)** when there's something worth saying
 
   ### Find me
 
@@ -50,6 +60,6 @@
 
   <div align="center">
 
-  *Casablanca · CMT*
+  <sub>*Casablanca · CMT*</sub>
 
   </div>
