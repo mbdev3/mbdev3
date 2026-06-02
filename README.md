@@ -8,8 +8,7 @@
 
   <br>
 
-  [Portfolio](https://mohammedbanani.com)&nbsp;&nbsp;·&nbsp;&nbsp;[Journal](https://mohammedbanani.com/journal)&nbsp;&nbsp;·&nbsp;&nbsp;[Contact](https://moh
-  ammedbanani.com/contact)
+  [Portfolio](https://mohammedbanani.com)&nbsp;&nbsp;·&nbsp;&nbsp;[Journal](https://mohammedbanani.com/journal)&nbsp;&nbsp;·&nbsp;&nbsp;[Contact](https://mohammedbanani.com/contact)
 
   </div>
 
