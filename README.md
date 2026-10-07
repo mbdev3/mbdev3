@@ -11,7 +11,7 @@
 
 <br>
 
-I build products end to end: the idea, the code, the launch, and the unglamorous months after. Eight of them are live, two are open-source packages, and three more are on the bench. And the sky above is not a GIF. It is Casablanca, right now.
+I build products end to end: the idea, the code, the launch, and the unglamorous months after. The sky above is not a GIF. It is Casablanca, right now.
 
 <br>
 
